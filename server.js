@@ -4,7 +4,7 @@ var app = express();
 const routes = require('express').Router();
 
 routes.get('/', (req, res, next) => {
-    res.json('Awesome person');
+    res.json('Christina Marie Dominguez');
 });
 
 app.listen(3000, () => {
