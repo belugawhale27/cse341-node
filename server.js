@@ -1,12 +1,9 @@
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
 
-const routes = require('express').Router();
+app.use('/', require('./routes'))
 
-routes.get('/', (req, res, next) => {
-    res.json('Christina Marie Dominguez');
-});
-
-app.listen(3000, () => {
-    console.log('Server is running on port 3000');
+app.listen(port, () => {
+    console.log(`Running on port ${port}`);
 });
