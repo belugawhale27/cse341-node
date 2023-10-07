@@ -1,0 +1,1 @@
+GET http://localhost:8080/contacts # the request above returns a json object with contact data for someone. No database is connected.
