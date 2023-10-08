@@ -1,1 +1,8 @@
-GET http://localhost:8080/contacts # the request above returns a json object with contact data for someone. No database is connected.
+# the request above returns a json object with contact data for someone. No database is connected.
+GET http://localhost:8080/contact
+#Contact: Devin
+GET http://localhost:8080/contact/6518d2947c63fc6145c181b0
+#Contact: Ashley
+GET http://localhost:8080/contact/6518d29d7c63fc6145c181b1
+#Contact: Joshua
+GET http://localhost:8080/contact/6518d2077c63fc6145c181ae
