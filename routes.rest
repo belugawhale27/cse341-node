@@ -1,6 +1,6 @@
 //LOCALHOST
 ### the request above returns a json object with contact data for someone. No database is connected.
-GET HTTP://localhost:8080/contact
+GET HTTP://localhost:10000/contact
 #Contact: Devin
 GET http://localhost:8080/contact/6518d2947c63fc6145c181b0
 #Contact: Ashley
