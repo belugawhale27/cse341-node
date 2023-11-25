@@ -1,0 +1,26 @@
+{
+  "contact": 
+    {
+      "firstName": "Ashley",
+      "lastName": "Dahlberg",
+      "email": "ahdahlberg15@gmail.com",
+      "favoriteColor": "Red",
+      "birthday": "December 15, 1990"
+    },
+  "contact2": 
+    {
+      "firstName": "Joshua",
+      "lastName": "Dahlberg",
+      "email": "dahlbergjoshua@gmail.com",
+      "favoriteColor": "Green",
+      "birthday": "October 16, 2018"
+    },
+    "contact3": 
+    {
+      "firstName": "Devin",
+      "lastName": "Dahlberg",
+      "email": "dahlbergdevin@gmail.com",
+      "favoriteColor": "Yellow",
+      "birthday": "September 24, 1992"
+    }
+}
