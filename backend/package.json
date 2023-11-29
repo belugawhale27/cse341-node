@@ -1,13 +1,13 @@
 {
   "name": "cse341-node",
   "version": "1.0.0",
-  "description": "lesson2",
+  "description": "lesson3",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "lint": "esline .",
-    "lint:flix": "eslint --fix",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./,prettierrc"
   },
   "author": "Ashley Dahlberg",
