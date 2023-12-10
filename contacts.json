@@ -6,7 +6,9 @@
       "email": "ahdahlberg15@gmail.com",
       "favoriteColor": "Red",
       "birthday": "December 15, 1990"
-    },
+    }
+  }
+  {
   "contact2": 
     {
       "firstName": "Joshua",
@@ -14,7 +16,9 @@
       "email": "dahlbergjoshua@gmail.com",
       "favoriteColor": "Green",
       "birthday": "October 16, 2018"
-    },
+    }
+  }
+  {
     "contact3": 
     {
       "firstName": "Devin",
