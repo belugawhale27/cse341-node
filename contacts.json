@@ -5,28 +5,25 @@
       "lastName": "Dahlberg",
       "email": "ahdahlberg15@gmail.com",
       "favoriteColor": "Red",
-      "birthday": "December 15, 1990"
-    }
-  }
-
-  {
+      "birthday": "December 15, 1990",
+      "id": 1
+    },
   "contact2": 
     {
       "firstName": "Joshua",
       "lastName": "Dahlberg",
       "email": "dahlbergjoshua@gmail.com",
       "favoriteColor": "Green",
-      "birthday": "October 16, 2018"
-    }
-  }
-  
-  {
+      "birthday": "October 16, 2018",
+      "id": 2
+    },
     "contact3": 
     {
       "firstName": "Devin",
       "lastName": "Dahlberg",
       "email": "dahlbergdevin@gmail.com",
       "favoriteColor": "Yellow",
-      "birthday": "September 24, 1992"
+      "birthday": "September 24, 1992",
+      "id":3
     }
 }
