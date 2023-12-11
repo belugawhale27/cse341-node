@@ -18,6 +18,7 @@ const getSingle = async (req, res) => {
   });
 };
 
+
 const createContact = async (req, res) => {
   const contact = {
     firstName: req.body.firstName,
